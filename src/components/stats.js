@@ -5,7 +5,7 @@ const stats = [
   { label: 'Users', value: 2700 },
   { label: 'Subscribes', value: 1800 },
   { label: 'Downloads', value: 35 },
-  { label: 'Products', value: 4 },
+  { label: 'Products', value: 40 },
 ];
 
 const Stats = () => {
